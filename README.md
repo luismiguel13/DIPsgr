@@ -6,7 +6,7 @@ This repository pertains to the paper titled "Shot-gather Reconstruction using a
 
 * <span id="Notebook">Code (Notebook)</span>
 
-* <span id="Data">Data</span>
+* <span id="Data">Seismic data</span>
 
 ## Summary
 
