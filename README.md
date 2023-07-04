@@ -18,7 +18,11 @@ Numerical experiments on databases demonstrate that DIPsgr recovers the complete
 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/luismiguel13/DIPsgr/blob/main/images/sland.png)
 
-Figure. (a) Ground truth for the shot-gather 8 in Dataset I: Synthetic split-spread, and the interpolation results with (b) DIPsgr (proposed), (c) IL, (d) DSPRecon, and (e) CE method. (f-i) Normalized difference for each method, respectively.
+Figure 1. (a) Ground truth for the shot-gather 8 in Dataset I: Synthetic split-spread, and the interpolation results with (b) DIPsgr (proposed), (c) IL, (d) DSPRecon, and (e) CE method. (f-i) Normalized difference for each method, respectively.
+
+![Aquí la descripción de la imagen por si no carga](https://github.com/luismiguel13/DIPsgr/blob/main/images/smarine.png)
+
+Figure 2. (a) Ground truth for the shot-gather 8 in Dataset II: Synthetic inline offset, and the interpolation results with (b) DIPsgr (proposed), (c) IL, (d) DSPRecon, and (e) CE method. (f-i) Normalized difference for each method, respectively.
 
 ## Acknowledgments
 
