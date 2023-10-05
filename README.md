@@ -1,6 +1,6 @@
 # DIPsgr
 
-This repository pertains to the paper titled "Shot-gather Reconstruction using a Deep Data Prior-based Neural Network Approach" or DIPsrg and serves as an example, documenting the outcomes of the synthetic seismic data acquisition in split-spread and inline offset geometry.
+This repository pertains to the paper titled "Shot-gather Reconstruction using a Deep Data Prior-based Neural Network Approach" or DIPsrg and serves as an example, documenting the outcomes of the synthetic seismic data acquisition in split-spread and inline offset geometry. You can find the paper in this [link](https://revistas.uis.edu.co/index.php/revistauisingenierias/article/view/14253/13158).
 
 ## Content
 
